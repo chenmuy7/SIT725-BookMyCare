@@ -1,9 +1,0 @@
-/* Reset */
-body, h1, p, ul, a {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration:none;
-    font-family: 'DM Sans';
-}
-

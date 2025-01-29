@@ -1,0 +1,49 @@
+{
+    "doctors": [
+      {
+        "id": 1,
+        "name": "Dr. John Doe",
+        "email": "john.doe@example.com",
+        "specialty": "Cardiology",
+        "password": "hashed_password_123"
+      },
+      {
+        "id": 2,
+        "name": "Dr. Emily Smith",
+        "email": "emily.smith@example.com",
+        "specialty": "Neurology",
+        "password": "hashed_password_456"
+      },
+      {
+        "id": 3,
+        "name": "Dr. Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "specialty": "Dermatology",
+        "password": "hashed_password_789"
+      }
+    ],
+    "clients": [
+      {
+        "id": 1,
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com",
+        "dob": "1990-05-15",
+        "password": "hashed_password_abc"
+      },
+      {
+        "id": 2,
+        "name": "Mark Johnson",
+        "email": "mark.johnson@example.com",
+        "dob": "1985-03-22",
+        "password": "hashed_password_def"
+      },
+      {
+        "id": 3,
+        "name": "Alice Brown",
+        "email": "alice.brown@example.com",
+        "dob": "2000-07-10",
+        "password": "hashed_password_ghi"
+      }
+    ]
+  }
+  
